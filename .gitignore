@@ -1,0 +1,3 @@
+/venv
+/backend-api/weights/*
+/bm_classifier/node_modules
