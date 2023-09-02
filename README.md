@@ -1,8 +1,8 @@
-<h1 align="center"> Todo app with flask-graphene-sqlalchemy</h1>
+<h1 align="center"> Bone Marrow Cell Classifier</h1>
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 
-A simple todo application to keep track of the progress of your daily tasks.
+For proper diagnosis and management of hematologic diseases, bone marrow cells must be properly categorized. We propose an Attention-Guided Residual Networks (AG-ResNet) for classifying multi-class bone marrow cells using ResNet50 and Attention Mechanisms, specifically Channel Attention Module (CAM) and Position Attention Module (PAM). In order to concentrate on informative features, our method takes advantage of the classification problem’s hierarchical structure and incorporates channel and space-wise mechanisms for attention.
 
 ## Installation
 To install all the required libraries run the following command.
