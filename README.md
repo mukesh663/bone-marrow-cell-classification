@@ -13,6 +13,8 @@ To install tailwind & other packages, run the following command
 
 `npm install`
 
+Add your own API key and config in the firebase.js file.
+
 ## Demo
 
 Run both frontend and backend in different terminals.
