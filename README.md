@@ -18,15 +18,17 @@ To install tailwind & other packages, run the following command
 Run both frontend and backend in different terminals.
 
 React frontend command:
+
 `npm start`
 
 fastapi backend command:
+
 `uvicorn main:app --reload`
 
 Home page
 
-<img alt="Landing" src="assets/home.png"> </img>
+<img alt="landing" src="assets/home.png"> </img>
 
 Classification of bone marrow cells
 
-<img alt="auth" src="assets/classify.png"> </img>
+<img alt="classify" src="assets/classify.png"> </img>
